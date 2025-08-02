@@ -153,110 +153,7 @@ Create a `.env.local` file in the root directory:
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 NEXT_PUBLIC_APP_NAME=ThalaConnect
 
-# Database
-DATABASE_URL=postgresql://username:password@localhost:5432/thalaconnect
 
-# Authentication
-NEXTAUTH_SECRET=your-secret-key
-NEXTAUTH_URL=http://localhost:3000
-
-# External APIs
-GOOGLE_MAPS_API_KEY=your-google-maps-key
-TWILIO_API_KEY=your-twilio-key
-OPENAI_API_KEY=your-openai-key
-
-# Healthcare Integrations
-E_RAKTKOSH_API_KEY=your-eraktkosh-key
-BLOOD_BRIDGE_API_KEY=your-bloodbridge-key
-
-# Notifications
-FIREBASE_PROJECT_ID=your-firebase-project
-FIREBASE_PRIVATE_KEY=your-firebase-key
-\`\`\`
-
-## 📊 API Documentation
-
-### Authentication Endpoints
-\`\`\`
-POST /api/auth/register    # User registration
-POST /api/auth/login       # User login
-POST /api/auth/logout      # User logout
-GET  /api/auth/profile     # Get user profile
-\`\`\`
-
-### Donor Management
-\`\`\`
-GET    /api/donors         # List available donors
-POST   /api/donors/search  # AI-powered donor search
-GET    /api/donors/:id     # Get donor details
-POST   /api/donors/contact # Contact donor
-\`\`\`
-
-### Blood Requests
-\`\`\`
-POST   /api/requests       # Create blood request
-GET    /api/requests       # List user requests
-PUT    /api/requests/:id   # Update request status
-DELETE /api/requests/:id   # Cancel request
-\`\`\`
-
-### Education Platform
-\`\`\`
-GET  /api/courses          # List courses
-GET  /api/courses/:id      # Get course details
-POST /api/courses/:id/enroll # Enroll in course
-PUT  /api/progress/:id     # Update progress
-\`\`\`
-
-## 🧪 Testing
-
-### Run Tests
-\`\`\`bash
-# Unit tests
-npm run test
-
-# Integration tests
-npm run test:integration
-
-# E2E tests
-npm run test:e2e
-
-# Test coverage
-npm run test:coverage
-\`\`\`
-
-### Test Structure
-\`\`\`
-tests/
-├── __mocks__/           # Mock data and functions
-├── components/          # Component tests
-├── pages/              # Page tests
-├── api/                # API endpoint tests
-└── e2e/                # End-to-end tests
-\`\`\`
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-\`\`\`bash
-# Install Vercel CLI
-npm install -g vercel
-
-# Deploy
-vercel
-
-# Production deployment
-vercel --prod
-\`\`\`
-
-### Docker
-\`\`\`bash
-# Build image
-docker build -t thalaconnect .
-
-# Run container
-docker run -p 3000:3000 thalaconnect
-\`\`\`
 
 ### Manual Deployment
 \`\`\`bash
@@ -340,30 +237,13 @@ For security-related issues, please email security@thalaconnect.org instead of u
 - **Open Source Community** - For the amazing tools and libraries
 - **Donors** - The real heroes saving lives every day
 
-## 📞 Contact
 
-**Blood Warriors Organization**
-- **Website**: [bloodwarriors.org](https://bloodwarriors.org)
-- **Email**: info@bloodwarriors.org
-- **Phone**: +91-XXX-XXX-XXXX
-- **Address**: Mumbai, Maharashtra, India
-
-**Development Team**
-- **Lead Developer**: [GitHub Profile](https://github.com/developer)
-- **Project Manager**: [LinkedIn Profile](https://linkedin.com/in/pm)
-- **Medical Advisor**: Dr. Medical Expert
-
----
 
 <div align="center">
 
-**Made with ❤️ by Blood Warriors**
 
 *Connecting lives, one donation at a time*
 
-[![GitHub Stars](https://img.shields.io/github/stars/blood-warriors/thalaconnect?style=social)](https://github.com/blood-warriors/thalaconnect)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thalaconnect?style=social)](https://twitter.com/thalaconnect)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/company/thalaconnect)
 
 </div>
  
