@@ -1,4 +1,4 @@
-# ThalaConnect 🩸
+# ThalaConnect 
 
 **AI-Powered Blood Donation Platform for Thalassemia Patients in India**
 
@@ -8,37 +8,37 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 
 ## 🌟 Features
 
-### 🤖 AI-Powered Donor Matching
+###  AI-Powered Donor Matching
 - **Real-time Prediction**: AI algorithms predict donor availability using geolocation and donation history
 - **Smart Matching**: 98% accuracy in matching patients with compatible donors
 - **Urgency-based Prioritization**: Critical cases get priority matching
 - **Distance Optimization**: Find the nearest available donors
 
-### 🔐 Secure & Compliant Platform
+###  Secure & Compliant Platform
 - **DPDPA Compliant**: Adheres to India's Digital Personal Data Protection Act
 - **Role-based Access**: Separate interfaces for patients, donors, and healthcare providers
 - **Encrypted Communication**: Secure messaging between all parties
 - **Verified Users**: Trust badges and verification system
 
-### 📚 Personalized Education
+###  Personalized Education
 - **Adaptive Learning**: Content tailored to literacy level and treatment history
 - **Interactive Modules**: Engaging courses on Thalassemia management
 - **Progress Tracking**: Monitor learning journey with achievements
 - **Expert Content**: Medical information reviewed by healthcare professionals
 
-### 🏆 Gamification & Community
+###  Gamification & Community
 - **Donor Recognition**: Points, badges, and leaderboards
 - **Community Support**: Patient forums and support groups
 - **Achievement System**: Motivational rewards for engagement
 - **Success Stories**: Inspiring patient and donor testimonials
 
-### 🩸 Comprehensive Blood Management
+###  Comprehensive Blood Management
 - **Emergency Requests**: One-click emergency blood assistance
 - **Appointment Scheduling**: Seamless coordination with healthcare providers
 - **Donation Tracking**: Complete history of donations and transfusions
 - **Integration Ready**: Compatible with e-RaktKosh and Blood Bridge APIs
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -75,7 +75,7 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
    http://localhost:3000
    \`\`\`
 
-## 📱 Usage
+##  Usage
 
 ### For Patients
 1. **Register** as a patient with medical details
@@ -100,7 +100,7 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 4. **Access Resources** for better patient management
 5. **Contribute Content** to the education platform
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **Next.js 14** - React framework with App Router
@@ -121,7 +121,7 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 - **Predictive Analytics** - Availability forecasting
 - **Personalization** - Content recommendation engine
 
-## 🏗️ Project Structure
+##  Project Structure
 
 \`\`\`
 thalaconnect/
@@ -163,10 +163,6 @@ npm run build
 # Start production server
 npm start
 \`\`\`
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) before getting started.
 
 ### Development Workflow
 1. **Fork** the repository
@@ -214,20 +210,6 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-### Getting Help
-- **Documentation**: [docs.thalaconnect.org](https://docs.thalaconnect.org)
-- **Community Forum**: [community.thalaconnect.org](https://community.thalaconnect.org)
-- **Email Support**: support@thalaconnect.org
-- **Emergency Helpline**: 1800-123-BLOOD
-
-### Bug Reports
-Please use our [GitHub Issues](https://github.com/blood-warriors/thalaconnect/issues) to report bugs or request features.
-
-### Security Issues
-For security-related issues, please email security@thalaconnect.org instead of using public issues.
 
 ## 🙏 Acknowledgments
 
