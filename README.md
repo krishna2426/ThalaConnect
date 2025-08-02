@@ -50,7 +50,7 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/blood-warriors/thalaconnect.git
+   git clone https://github.com/krishna2426/ThalaConnect.git
    cd thalaconnect
    \`\`\`
 
