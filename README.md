@@ -34,9 +34,9 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 
 ###  Comprehensive Blood Management
 - **Emergency Requests**: One-click emergency blood assistance
-- **Appointment Scheduling**: Seamless coordination with healthcare providers
-- **Donation Tracking**: Complete history of donations and transfusions
-- **Integration Ready**: Compatible with e-RaktKosh and Blood Bridge APIs
+- **Appointment Scheduling**: Seamless coordination with healthcare providers.
+- **Donation Tracking**: Complete history of donations and transfusions.
+- **Integration Ready**: Compatible with e-RaktKosh and Blood Bridge APIs.
 
 ##  Quick Start
 
