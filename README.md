@@ -9,10 +9,10 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 ## 🌟 Features
 
 ###  AI-Powered Donor Matching
-- **Real-time Prediction**: AI algorithms predict donor availability using geolocation and donation history
-- **Smart Matching**: 98% accuracy in matching patients with compatible donors
-- **Urgency-based Prioritization**: Critical cases get priority matching
-- **Distance Optimization**: Find the nearest available donors
+- **Real-time Prediction**: AI algorithms predict donor availability using geolocation and donation history.
+- **Smart Matching**: 98% accuracy in matching patients with compatible donors.
+- **Urgency-based Prioritization**: Critical cases get priority matching.
+- **Distance Optimization**: Find the nearest available donors.
 
 ###  Secure & Compliant Platform
 - **DPDPA Compliant**: Adheres to India's Digital Personal Data Protection Act
