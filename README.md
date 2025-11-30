@@ -15,16 +15,16 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 - **Distance Optimization**: Find the nearest available donors.
 
 ###  Secure & Compliant Platform
-- **DPDPA Compliant**: Adheres to India's Digital Personal Data Protection Act
-- **Role-based Access**: Separate interfaces for patients, donors, and healthcare providers
-- **Encrypted Communication**: Secure messaging between all parties
-- **Verified Users**: Trust badges and verification system
+- **DPDPA Compliant**: Adheres to India's Digital Personal Data Protection Act.
+- **Role-based Access**: Separate interfaces for patients, donors, and healthcare providers.
+- **Encrypted Communication**: Secure messaging between all parties.
+- **Verified Users**: Trust badges and verification system.
 
 ###  Personalized Education
-- **Adaptive Learning**: Content tailored to literacy level and treatment history
-- **Interactive Modules**: Engaging courses on Thalassemia management
-- **Progress Tracking**: Monitor learning journey with achievements
-- **Expert Content**: Medical information reviewed by healthcare professionals
+- **Adaptive Learning**: Content tailored to literacy level and treatment history.
+- **Interactive Modules**: Engaging courses on Thalassemia management.
+- **Progress Tracking**: Monitor learning journey with achievements.
+- **Expert Content**: Medical information reviewed by healthcare professionals.
 
 ###  Gamification & Community
 - **Donor Recognition**: Points, badges, and leaderboards
