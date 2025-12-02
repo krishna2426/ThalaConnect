@@ -27,10 +27,10 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 - **Expert Content**: Medical information reviewed by healthcare professionals.
 
 ###  Gamification & Community
-- **Donor Recognition**: Points, badges, and leaderboards
-- **Community Support**: Patient forums and support groups
-- **Achievement System**: Motivational rewards for engagement
-- **Success Stories**: Inspiring patient and donor testimonials
+- **Donor Recognition**: Points, badges, and leaderboards.
+- **Community Support**: Patient forums and support groups.
+- **Achievement System**: Motivational rewards for engagement.
+- **Success Stories**: Inspiring patient and donor testimonials.
 
 ###  Comprehensive Blood Management
 - **Emergency Requests**: One-click emergency blood assistance
