@@ -78,20 +78,20 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 ##  Usage
 
 ### For Patients
-1. **Register** as a patient with medical details
-2. **Complete Profile** with blood type and location
-3. **Find Donors** using AI-powered matching
-4. **Schedule Appointments** with healthcare providers
-5. **Learn & Grow** through personalized education modules
-6. **Connect** with the community for support
+1. **Register** as a patient with medical details.
+2. **Complete Profile** with blood type and location.
+3. **Find Donors** using AI-powered matching.
+4. **Schedule Appointments** with healthcare providers.
+5. **Learn & Grow** through personalized education modules.
+6. **Connect** with the community for support.
 
 ### For Donors
-1. **Sign Up** as a blood donor
-2. **Verify Profile** for trust and safety
-3. **Set Availability** and donation preferences
-4. **Respond to Requests** from patients in need
-5. **Earn Recognition** through the gamification system
-6. **Track Impact** of your donations
+1. **Sign Up** as a blood donor.
+2. **Verify Profile** for trust and safety.
+3. **Set Availability** and donation preferences.
+4. **Respond to Requests** from patients in need.
+5. **Earn Recognition** through the gamification system.
+6. **Track Impact** of your donations.
 
 ### For Healthcare Providers
 1. **Register** with medical credentials
