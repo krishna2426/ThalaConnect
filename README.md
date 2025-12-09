@@ -94,20 +94,20 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 6. **Track Impact** of your donations.
 
 ### For Healthcare Providers
-1. **Register** with medical credentials
-2. **Manage Patients** and appointment schedules
-3. **Coordinate Care** with other providers
-4. **Access Resources** for better patient management
-5. **Contribute Content** to the education platform
+1. **Register** with medical credentials.
+2. **Manage Patients** and appointment schedules.
+3. **Coordinate Care** with other providers.
+4. **Access Resources** for better patient management.
+5. **Contribute Content** to the education platform.
 
 ##  Technology Stack
 
 ### Frontend
-- **Next.js 14** - React framework with App Router
-- **TypeScript** - Type-safe development
-- **Tailwind CSS** - Utility-first styling
-- **shadcn/ui** - Modern UI components
-- **Lucide React** - Beautiful icons
+- **Next.js 14** - React framework with App Router.
+- **TypeScript** - Type-safe development.
+- **Tailwind CSS** - Utility-first styling.
+- **shadcn/ui** - Modern UI components.
+- **Lucide React** - Beautiful icons.
 
 ### Backend (Ready for Integration)
 - **RESTful APIs** - FHIR-compliant endpoints
