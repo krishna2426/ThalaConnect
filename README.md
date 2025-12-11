@@ -4,7 +4,7 @@
 
 ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia patients with life-saving blood donors through AI-powered matching, personalized education, and community support. Built by Blood Warriors to address the critical challenges faced by Thalassemia patients in accessing timely blood transfusions.
 
-![ThalaConnect Banner](https://via.placeholder.com/1200x400/dc2626/ffffff?text=ThalaConnect+-+Connecting+Lives)
+
 
 ## 🌟 Features
 
