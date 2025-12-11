@@ -110,16 +110,16 @@ ThalaConnect is a comprehensive, mobile-first platform that connects Thalassemia
 - **Lucide React** - Beautiful icons.
 
 ### Backend (Ready for Integration)
-- **RESTful APIs** - FHIR-compliant endpoints
-- **Authentication** - JWT-based security
-- **Database** - PostgreSQL/MongoDB ready
-- **Real-time** - WebSocket support for notifications
+- **RESTful APIs** - FHIR-compliant endpoints.
+- **Authentication** - JWT-based security.
+- **Database** - PostgreSQL/MongoDB ready.
+- **Real-time** - WebSocket support for notifications.
 
 ### AI & Analytics
-- **Machine Learning** - Donor matching algorithms
-- **Geolocation** - Location-based services
-- **Predictive Analytics** - Availability forecasting
-- **Personalization** - Content recommendation engine
+- **Machine Learning** - Donor matching algorithms.
+- **Geolocation** - Location-based services.
+- **Predictive Analytics** - Availability forecasting.
+- **Personalization** - Content recommendation engine.
 
 ##  Project Structure
 
