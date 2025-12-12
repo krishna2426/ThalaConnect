@@ -180,11 +180,11 @@ npm start
 ## 📋 Roadmap
 
 ### Phase 1 (Current) ✅
-- [x] Core platform development
-- [x] AI donor matching algorithm
-- [x] User authentication system
-- [x] Basic education modules
-- [x] Community features
+- [x] Core platform development.
+- [x] AI donor matching algorithm.
+- [x] User authentication system.
+- [x] Basic education modules.
+- [x] Community features.
 
 ### Phase 2 (Q2 2024) 🚧
 - [ ] Real-time notifications
