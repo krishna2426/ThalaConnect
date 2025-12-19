@@ -201,11 +201,11 @@ npm start
 - [ ] IoT device integration.
 
 ### Phase 4 (Q4 2024) 🔮
-- [ ] Machine learning optimization
-- [ ] Predictive health analytics
-- [ ] Government system integration
-- [ ] International expansion
-- [ ] Research collaboration platform
+- [ ] Machine learning optimization.
+- [ ] Predictive health analytics.
+- [ ] Government system integration.
+- [ ] International expansion.
+- [ ] Research collaboration platform.
 
 ## 📄 License
 
@@ -213,11 +213,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Blood Warriors** - Founding organization
-- **Thalassemia Patients** - For their invaluable feedback
-- **Healthcare Providers** - For medical expertise
-- **Open Source Community** - For the amazing tools and libraries
-- **Donors** - The real heroes saving lives every day
+- **Blood Warriors** - Founding organization.
+- **Thalassemia Patients** - For their invaluable feedback.
+- **Healthcare Providers** - For medical expertise.
+- **Open Source Community** - For the amazing tools and libraries.
+- **Donors** - The real heroes saving lives every day.
 
 
 
